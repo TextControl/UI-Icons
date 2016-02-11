@@ -3,4 +3,4 @@ UI-Icons contains icon sets for [TX Text Control](http://www.textcontrol.com/en_
 *******
 *License*
 
-With a valid TX Text Control X12 serial number, you are allowed to use these icons for your own projects without any restrictions.
+With a valid TX Text Control serial number, you are allowed to use these icons for your own projects without any restrictions.
